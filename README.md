@@ -1,4 +1,4 @@
-# awesome-salary-negotiating
+# salary-negotiating
 
 Curated list of valuable salary negotiation advice.
  
