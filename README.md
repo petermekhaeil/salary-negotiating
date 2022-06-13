@@ -6,6 +6,7 @@ Curated list of valuable salary negotiation advice.
 
 - [Counter your job offer with this counter offer calculator and salary negotiation script](https://fearlesssalarynegotiation.com/salary-negotiation-script)
 - [Farewell, App Academy. Hello, Airbnb. (Part II)](https://haseebq.com/farewell-app-academy-hello-airbnb-part-ii/)
+- [How Not to Bomb Your Offer Negotiation](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 - [How to use a salary negotiation email to negotiate your starting salary](https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/)
 - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 - [Ten Rules for Negotiating a Job Offer](https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/)
