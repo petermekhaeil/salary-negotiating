@@ -10,6 +10,7 @@ Curated list of valuable salary negotiation advice.
 - [How to use a salary negotiation email to negotiate your starting salary](https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/)
 - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 - [Ten Rules for Negotiating a Job Offer](https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/)
+- [9 Key Principles of Salary Negotiation (including talk recording)] (https://thecodingrecruiter.notion.site/The-9-Key-Principles-of-Salary-Negotiation-adc02cde66d140849dddbd1f7b175367/)
 
 ## Books
 
