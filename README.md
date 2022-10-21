@@ -1,4 +1,4 @@
-# salary-negotiating
+# Salary Negotiating
 
 Curated list of valuable salary negotiation advice.
  
@@ -21,6 +21,10 @@ Curated list of valuable salary negotiation advice.
 - [Getting to Yes: Negotiating Agreement Without Giving In](https://www.goodreads.com/book/show/313605.Getting_to_Yes?ac=1&from_search=true&qid=HcfBQa9GvT&rank=1)
 - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
 - [The Coding Career Handbook - Learn in Public](https://www.learninpublic.org/) 
+
+## Clips
+
+- [Salary Negotiation 101 - Dan From HR](https://twitter.com/hr_dan/status/1582176882086522880)
 
 ## Guides
 
