@@ -4,6 +4,7 @@ Curated list of valuable salary negotiation advice.
  
 ## Articles
 
+- [Answering "What's Your Expected Salary?"](https://nodeflair.com/blog/answering-whats-your-expected-salary-with-templates)
 - [Counter your job offer with this counter offer calculator and salary negotiation script](https://fearlesssalarynegotiation.com/salary-negotiation-script)
 - [Farewell, App Academy. Hello, Airbnb. (Part II)](https://haseebq.com/farewell-app-academy-hello-airbnb-part-ii/)
 - [How Not to Bomb Your Offer Negotiation](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
